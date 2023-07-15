@@ -20,7 +20,7 @@ class Square():
 
     def permiter_of_my_square(self):
         """ Documentation """
-        return (self.width * 2) + (self.width * 2)
+        return (4 * self.width)
 
     def __str__(self):
         """ Documentation """
